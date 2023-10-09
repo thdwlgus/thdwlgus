@@ -5,17 +5,18 @@
 
 ## 💻 My Blog 💻
 <div style="display:flex; flex-direction:row;">
-<a href="https://thdwlgus.tistory.com">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://thdwlgus.tistory.com"/>
-</a>
+  <a href="https://thdwlgus.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://thdwlgus.tistory.com"/>
+  </a>
 
-####  :clipboard: Once I've Used 
+## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+  <div>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </div>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-####  :computer: Sever
-
-<img src="https://img.shields.io/badge/Linux-CC624?style=for-the-badge&logo=Linux&logoColor=white">
+  <p><strong>Server</strong></p>
+    <img src="https://img.shields.io/badge/Linux-CC624?style=for-the-badge&logo=Linux&logoColor=white">
