@@ -22,8 +22,12 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </div>
 
+  <br/>
+
   <p><strong>Server</strong></p>
     <img src="https://img.shields.io/badge/Linux-CC624?style=for-the-badge&logo=Linux&logoColor=white">
+
+  <br/>
 
   <p><strong>Version Control</strong></p>
   <div>
