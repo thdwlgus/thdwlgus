@@ -22,4 +22,4 @@
   <p><strong>Server</strong></p>
     <img src="https://img.shields.io/badge/Linux-CC624?style=for-the-badge&logo=Linux&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdwlgus&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdwlgus&show_icons=true&theme=default)
