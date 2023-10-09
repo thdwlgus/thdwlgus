@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/Linux-CC624?style=for-the-badge&logo=Linux&logoColor=white">
 
   <br/>
+  <br/>
 
   <p><strong>Version Control</strong></p>
   <div>
