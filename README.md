@@ -4,7 +4,7 @@
 
 
 
-####  :clipboard: My Blog
+####  :book: My Blog
 
 <a href="https://thdwlgus.tistory.com">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://thdwlgus.tistory.com"/>
@@ -17,6 +17,6 @@
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-####  :clipboard: Sever
+####  :computer: Sever
 
 <img src="https://img.shields.io/badge/Linux-CC624?style=for-the-badge&logo=Linux&logoColor=white">
