@@ -25,10 +25,15 @@
 
   <br/>
 
-  <p><strong><b>Server</b></strong></p>
-    <img src="https://img.shields.io/badge/Linux-CC624?style=for-the-badge&logo=Linux&logoColor=white">
+  <p><strong><b>Development Tools</b></strong></p>
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
+
+  <br/>
+  <br/>
+    
+  <p><strong><b>Server</b></strong></p>
+    <img src="https://img.shields.io/badge/Linux-CC624?style=for-the-badge&logo=Linux&logoColor=white">
 
   <br/>
   <br/>
